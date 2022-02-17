@@ -11,26 +11,23 @@ public class e02Toplama {
 
         String[] sayilar = strSayilar.split(" ");
 
-        String birinci = sayilar[0];
-        String ikinci = sayilar[1];
-
-        int ilkSayi = Integer.parseInt(birinci);
-        int ikinciSayi = Integer.parseInt(ikinci);
+        int ilkSayi = Integer.parseInt(sayilar[0]);
+        int ikinciSayi = Integer.parseInt(sayilar[1]);
         int toplam = ilkSayi + ikinciSayi;
 
         System.out.println("Toplam: " + toplam);
 
         /* Veya
 
-        Scanner ilk = new Scanner(System.in);
+        Scanner say = new Scanner(System.in);
         System.out.print("Birinci Sayıyı Giriniz: ");
-        int ilkSayi = ilk.nextInt();
+        int ilkSayim = say.nextInt();
 
-        Scanner ikinci = new Scanner(System.in);
         System.out.print("İkinci Sayıyı Giriniz: ");
-        int ikinciSayi = ikinci.nextInt();
+        int ikinciSayim = say.nextInt();
 
-        System.out.println("Toplam: " + (ilkSayi + ikinciSayi));
-         */
+        System.out.println("Sayılar: " + ilkSayim + " " + ikinciSayim);
+        System.out.println("Toplam: " + (ilkSayim + ikinciSayim));
+        */
     }
 }
