@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class e05NeKadarSayilariTopla {
     public static void main(String[] args) {
-        // 1'den, kullanıcıdan gelen kadare kadar olan sayıların toplamını verir.
+        // 1'den, kullanıcıdan gelen sayıya kadar olan sayıların toplamını verir.
         Scanner sayi = new Scanner(System.in);
         System.out.print("Bir Sayı Giriniz: ");
         int gelenSayi = sayi.nextInt();
