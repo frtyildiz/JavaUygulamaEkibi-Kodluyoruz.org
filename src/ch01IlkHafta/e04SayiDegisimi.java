@@ -13,12 +13,19 @@ public class e04SayiDegisimi {
         System.out.print("İkinci Sayıyı Giriniz: ");
         double ikinciSayi = sayi.nextDouble();
 
-        System.out.println("---Değişimden Önce---");
-        System.out.println("Birinci Sayı: " + ilkSayi);
-        System.out.println("İkinci Sayı: " + ikinciSayi);
+        if (ilkSayi != ikinciSayi)
+        {
+            System.out.println("---Değişimden Önce---");
+            System.out.println("Birinci Sayı: " + ilkSayi);
+            System.out.println("İkinci Sayı: " + ikinciSayi);
 
-        System.out.println("---Değişimden Sonra---");
-        System.out.println("Birinci Sayı: " + ikinciSayi);
-        System.out.println("İkinci Sayı: " + ilkSayi);
+            System.out.println("---Değişimden Sonra---");
+            System.out.println("Birinci Sayı: " + ikinciSayi);
+            System.out.println("İkinci Sayı: " + ilkSayi);
+        }
+        else
+            System.out.println("Girdiniğiniz Sayılar Birbirine Eşit");
+
+
     }
 }
