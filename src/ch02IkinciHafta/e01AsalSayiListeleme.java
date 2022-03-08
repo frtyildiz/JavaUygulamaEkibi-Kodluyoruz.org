@@ -1,8 +1,5 @@
 package src.ch02IkinciHafta;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class e01AsalSayiListeleme {
     public static void main(String[] args) {
         // 1 ile 1.000.000 arasındaki asal sayıların listelenmesi gerçekleştirilecektir;

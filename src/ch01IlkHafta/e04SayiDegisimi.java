@@ -1,4 +1,4 @@
-package ch01IlkHafta;
+package src.ch01IlkHafta;
 
 import java.util.Scanner;
 
