@@ -17,6 +17,10 @@ II. Hafta | [Alıştırmalar](https://github.com/frtyildiz/JavaUygulamaEkibi-Kod
  - [Girilen 10 Sayının Toplamının Bulunması](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch02IkinciHafta/e05SayilarToplami.java)
  - [Rastgele Bulunan Sayıların Tek - Çift Olanlarının Bulunması](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch02IkinciHafta/e06TekCift.java)
 
- 
-
-
+ III. Hafta | [Alıştırmalar](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/docs/Ucuncu%20Hafta%20Java%20Uygulama%20Grubu.pdf) 
+ - [Faktöriyel Hesaplama Programı](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch03UcuncuHafta/e01Faktoriyel.java)
+ - [Çarpım Tablosu Oluşturma Programı](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch03UcuncuHafta/e02CarpimTablosu.java)
+ - [Girilen Sayının Fibonacci Serisini Yazdırma Programı](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch03UcuncuHafta/e03Fibonacci.java)
+ - [Girilen Metinde Harf Dışındaki Karakterleri Bulan Program](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch03UcuncuHafta/e04StringArama.java)
+ - [İki Dizideki Aynı Elemanları Bulan Program](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch03UcuncuHafta/e05ElemanKarsilastir.java)
+ - [Girilen Sayının Binary Kontrolünü Yapan Program](https://github.com/frtyildiz/JavaUygulamaEkibi-Kodluyoruz.org/blob/main/src/ch03UcuncuHafta/e06Binary.java)
